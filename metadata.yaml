@@ -1,0 +1,35 @@
+_repo: The-Confession-of-a-Child-of-the-Century_9869
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Warren, Kendall
+    gutenberg_agent_id: '3181'
+    url: http://www.gutenberg.org/2009/agents/3181
+creator:
+  author:
+    agent_name: Musset, Alfred de
+    aliases:
+    - DeMusset, Alfred
+    - Musset, Louis Charles Alfred de
+    - De Musset, Alfred
+    birthdate: 1810
+    deathdate: 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Confession of a Child of the Century
+url: http://www.gutenberg.org/ebooks/9869
