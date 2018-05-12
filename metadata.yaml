@@ -1,10 +1,13 @@
 _repo: The-Confession-of-a-Child-of-the-Century_9869
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Warren, Kendall
     gutenberg_agent_id: '3181'
     url: http://www.gutenberg.org/2009/agents/3181
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Musset, Alfred de
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9869#The-Confession-of-a-Child-of-the-Century
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
